@@ -6,7 +6,8 @@
   "description": "",
   "main": [
 	"flowplayer.min.js",
-	"flowplayer.hlsjs.min.js"
+	"flowplayer.hlsjs.min.js",
+	"skin/skin.css"
   ],
   "keywords": [
     "livestream",
