@@ -5,7 +5,7 @@
   ],
   "description": "",
   "main": [
-	"flowplayer.min",
+	"flowplayer.min.js",
 	"flowplayer.hlsjs.min.js"
   ],
   "keywords": [
