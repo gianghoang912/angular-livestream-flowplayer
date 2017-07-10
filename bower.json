@@ -5,8 +5,8 @@
   ],
   "description": "",
   "main": [
-	"flowplayer.hlsjs.min.js",
-	"flowplayer.min"
+	"flowplayer.min",
+	"flowplayer.hlsjs.min.js"
   ],
   "keywords": [
     "livestream",
@@ -16,7 +16,6 @@
   ],
   "license": "MIT",
   "homepage": "",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
