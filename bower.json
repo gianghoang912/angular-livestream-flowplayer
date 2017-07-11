@@ -7,7 +7,12 @@
   "main": [
 	"flowplayer.min.js",
 	"flowplayer.hlsjs.min.js",
-	"skin/skin.css"
+	"skin/skin.css",
+	"skin/icons/flowplayer.eot",
+	"skin/icons/flowplayer.svg",
+	"skin/icons/flowplayer.ttf",
+	"skin/icons/flowplayer.woff",
+	"skin/icons/flowplayer.woff2"
   ],
   "keywords": [
     "livestream",
